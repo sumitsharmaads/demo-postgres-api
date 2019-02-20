@@ -1,0 +1,17 @@
+{
+  "name": "authentication-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "express": "^4.16.4",
+    "pg": "^7.8.0",
+    "pg-promise": "^8.5.5"
+  }
+}
